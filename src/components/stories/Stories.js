@@ -63,7 +63,7 @@ const useStyles = makeStyles((theme) => ({
     paddingLeft: 20,
     paddingRight: 30,
     marginTop: 90,
-    fontFamily: '"Roboto", "Helvetica", "Arial", "sans-serif"',
+    fontFamily: '"Noto-Sans", "sans-serif","Roboto", "Helvetica", "Arial"',
 
     "& img": {
       margin: "auto",
