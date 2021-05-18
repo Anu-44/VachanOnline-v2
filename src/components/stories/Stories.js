@@ -59,11 +59,14 @@ const useStyles = makeStyles((theme) => ({
   drawerHeader: {
     marginTop: 60,
   },
+  listItem: {
+    fontFamily: '"Roboto","Noto-Sans", "sans-serif"',
+  },
   stories: {
     paddingLeft: 20,
     paddingRight: 30,
     marginTop: 90,
-    fontFamily: '"Noto-Sans", "sans-serif","Roboto", "Helvetica", "Arial"',
+    fontFamily: '"Roboto","Noto-Sans", "sans-serif"',
 
     "& img": {
       margin: "auto",
